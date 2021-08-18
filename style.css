@@ -32,7 +32,7 @@ img {
 @media screen and (min-width: 400px) {
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 800px) {
   .container {
     display: flex;
     padding: 0 4em 0 4em;
